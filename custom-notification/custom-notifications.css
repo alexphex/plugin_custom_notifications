@@ -1,0 +1,19 @@
+.custom-notification {
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 9999;
+}
+
+.custom-notification-close {
+    background: none;
+    border: none;
+    font-size: 20px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    cursor: pointer;
+    color: inherit;
+}
