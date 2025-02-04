@@ -1,4 +1,5 @@
 # plugin_custom_notifications (WordPress Plugin)
+# made with Copilot
 # Custom Notifications
 
 **Description**: A WordPress plugin that allows site administrators to add customizable user notifications that are displayed on all site pages.
